@@ -4,5 +4,5 @@ resources:
 - deployment.yaml
 images:
 - name: ghcr.io/rparmer/tekton
-  newTag: v0.0.7
-namespace: staging
+  newTag: v0.0.11
+namespace: dev
